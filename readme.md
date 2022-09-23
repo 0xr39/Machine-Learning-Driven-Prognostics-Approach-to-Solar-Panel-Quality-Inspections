@@ -2,7 +2,7 @@
 <br>
 <h3>Final Year Project Report</h3>
 <br>
-<i>Department of Advanced Design and Systems Engineering City University of Hong Kong</i>
+<i>Department of Advanced Design and Systems Engineering <br> City University of Hong Kong</i>
 
 <h1>Introduction of the project paper</h1>
 <br>
