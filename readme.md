@@ -7,6 +7,7 @@
 <i>Department of Advanced Design and Systems Engineering City University of Hong Kong</i>
 
 <h1>Introduction of the project paper</h1>
+<br>
 <p>
         This report aims to thoroughly present its readers with the details of a project aiming to design a machine learning system in order to improve the solar panel quality inspection business process of quality assurance and technical compliance consulting firm specializing in solar photovoltaics, namely Sinovoltaics. This system may act as a part of a bigger decision support system (DSS), described detailly in the paper “Designing a System for Data- driven Risk Assessment of Solar Projects”, which is a system to assess technical risks associated with photovoltaic (PV) projects using a data-driven approach. (Umair, Zwetsloot, Luk, Shim & Kostromin, 2021)
 </p>
