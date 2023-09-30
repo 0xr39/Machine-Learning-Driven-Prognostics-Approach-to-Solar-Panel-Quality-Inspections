@@ -1,6 +1,8 @@
 <h1>Machine Learning Driven Prognostics Approach to Solar Panel Quality Inspections</h1>
 <br>
-<h3>Final Year Project Report</h3>
+
+[Final Year Project Report](./Report.pdf)
+
 <br>
 <i>Department of Advanced Design and Systems Engineering <br> City University of Hong Kong</i>
 
